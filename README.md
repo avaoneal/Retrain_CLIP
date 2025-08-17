@@ -4,6 +4,6 @@ This project, sponsored by a special topics data science course (MA 591) at NCSU
 
 RETRAIN_BASE_MODEL.ipynb contains the retraining framework and a discussion on implementation. 
 
-The testing folder contains the scripts we wrote to compare accuracy results with the original CLIP model versus our retrained model.  
+The testing folder contains the scripts we wrote to compare accuracy results with the original versus retrained CLIP model.  
 
 GroupPaperCLIP.pdf is our comprehensive written report that documents our completed project. 
